@@ -1,0 +1,20 @@
+{
+    "name": "MoviesHub",
+    "short_name": "MoviesHub",
+    "icons": [
+        {
+            "src": "https://cdn.statically.io/gh/Shaikhb123/favicon/main/ f/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.statically.io/gh/Shaikhb123/favicon/main/ f/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "https://www.m3xmovies.com/",
+    "display": "standalone"
+}
